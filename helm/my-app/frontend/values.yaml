@@ -2,7 +2,7 @@ appName: greek # This value was modified by the initial-setup python script
 
 service: frontend
 
-host:  # This value was modified by the deploy-argocd pipeline
+host: af9b4cb97f11948218ff252ae9fba56b-1101561556.us-east-1.elb.amazonaws.com # This value was modified by the deploy-argocd pipeline
 
 port: 80
 
