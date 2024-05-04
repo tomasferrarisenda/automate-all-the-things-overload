@@ -4,7 +4,7 @@ redis_host: master.greek-prod-elascache-rep-group.shelfr.use1.cache.amazonaws.co
 
 deployment:
   image:
-    tag: 0
+    tag: 1
   replicas: 1
     
 secret:
